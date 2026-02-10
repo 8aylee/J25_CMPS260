@@ -1,5 +1,5 @@
 echo 'Welcome to birthday date meaning generator!'
-echo 'Please enter the month number of your birthday (January = 1, February = 2, etc\'85):'
+echo 'Please enter the month number of your birthday (January = 1, February = 2, etc...):'
 read a
 echo 'Please enter the year of your birthday:'
 read c
